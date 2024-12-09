@@ -1,4 +1,5 @@
-For unit leader or group leader are required to submit overtime requests for their team members
+For unit leader or group leader are required to submit overtime requests for their team members.
+
 1.Home
 ![1 Hour](https://github.com/user-attachments/assets/d77f95ae-4a28-4276-b113-7e710a9213df)
 ![2 Follow](https://github.com/user-attachments/assets/b648725f-908d-4039-ab17-70af81d828d1)
@@ -18,12 +19,12 @@ For unit leader or group leader are required to submit overtime requests for the
 ![4 Draft](https://github.com/user-attachments/assets/b7a61b3e-52ca-474b-ab81-9bfba786fd87)
 
 4.Approving
-  HR Part
+  - HR Part
   ![1 HR-Lastest](https://github.com/user-attachments/assets/1ee1c8b7-dbbb-4d20-ac6e-fc432bea8e32)
   ![1 HR-Lastest-Action](https://github.com/user-attachments/assets/aa01e851-b45f-4385-84ef-9ec485037ce1)
   ![1 HR-Lastest-Detailmore](https://github.com/user-attachments/assets/2d7203bc-d8d7-4aca-ba06-51eb878b4c4a)
   
-  Lamp and Office Part
+  - Lamp and Office Part
   ![1 Latest](https://github.com/user-attachments/assets/cab2134c-7508-46bc-b947-59b390d0826e)
   ![1 Latest-Action](https://github.com/user-attachments/assets/2c0badb3-6a9e-45a3-b9d7-2a8e4bf04417)
 
@@ -43,8 +44,6 @@ Example Mobile and Handheld Display
 3.View Detail
 ![DetailActionOnMobile](https://github.com/user-attachments/assets/bdbd8b56-4972-414a-bd56-ae9f9e0ff14b)
 
-
 Excample Confirmation and Suggestion
 ![DeleteOnMoblie](https://github.com/user-attachments/assets/8941ec96-e158-48fa-8d9a-2d0ee365f2a2)
 ![EmployeeSuggestion](https://github.com/user-attachments/assets/74a14ea3-d320-4a68-82b2-eae9c8683803)
-
